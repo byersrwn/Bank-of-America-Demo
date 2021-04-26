@@ -1,0 +1,11 @@
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: 250px;
+    height: 322px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}

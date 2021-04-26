@@ -1,0 +1,49 @@
+.mainInfo {
+    display: flex;
+    flex-direction: row;  
+    /* justify-content: space-between; */
+    margin-left: 100px;
+    width: 1000px;
+    height: 500px;
+
+
+}
+.content {
+    width: 100%;
+    margin-left: 100px;
+    height: 500px;
+
+}
+
+/* .explorer{
+    width: 500px;
+    height: 500px;
+} */
+
+/* .test{
+    width: 500px;
+    height: 500px;
+
+} */
+
+/* .test2{
+    width: 500px;
+    height: 500px;
+
+} */
+
+.contentExplorer{
+    width: 700px;
+    height: 750px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+
+
+}
+
+/* .test4{
+    width: 1000px;
+    height: 1000px;
+
+} */

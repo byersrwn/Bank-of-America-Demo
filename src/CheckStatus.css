@@ -1,0 +1,27 @@
+.maininfo {
+    display: flex;
+    flex-direction: row;
+}
+
+.complete {
+    margin-left: 210px;
+}
+
+.processing{
+    margin-top: 20px;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 550px;
+}
+
+.subtext {
+    font-size: 25px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.progress{
+    margin-left: 210px;
+    
+}

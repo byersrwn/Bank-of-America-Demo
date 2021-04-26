@@ -1,0 +1,94 @@
+.mainInfo {
+    display: flex;
+    flex-direction: row;  
+}
+.stepperandfields {
+    display: flex;
+    flex-direction: column;  
+    width: 750px;
+}
+
+.finish {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 27px;
+    border-radius: 10px;
+
+}
+
+.extraText {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+}
+
+.checkMark {
+    margin-left: 275px;
+    margin-top: 20px;
+}
+
+.nextButton{
+    align-self: flex-end;
+    margin-right: 5px;
+}
+
+.stepper {
+    border: 1px solid black;
+}
+.finishButton{
+    margin-left: 665px;
+    margin-top: 5px;
+    
+}
+
+.uploaderandbutton{
+    height: 650px;
+    border: 1px solid black;
+    margin-left: 5px;
+
+}
+
+.ContentUploader {
+    border: 1px solid black;
+    /* margin-left: 100px; */
+    size: 100%;
+
+}
+
+.Content {
+    border: 1px solid black;
+    margin-top: 100px;
+
+
+}
+.fields {
+    height: 250px;
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+.names {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.loantype {
+    width: 400px;
+}
+
+.notes {
+    width: 400px;
+}
+
+.next {
+    width: 100px;
+}
+
